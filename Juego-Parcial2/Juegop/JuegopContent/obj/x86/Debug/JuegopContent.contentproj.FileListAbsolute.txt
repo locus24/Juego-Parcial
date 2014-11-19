@@ -1,0 +1,7 @@
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\JuegopContent\obj\x86\Debug\JuegopContent.contentprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\JuegopContent\obj\x86\Debug\JuegopContent.contentprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\JuegopContent\obj\x86\Debug\JuegopContent.contentprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\JuegopContent\obj\x86\Debug\JuegopContent.contentprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\JuegopContent\obj\x86\Debug\JuegopContent.contentprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\JuegopContent\obj\x86\Debug\JuegopContent.contentprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\JuegopContent\obj\x86\Debug\JuegopContent.contentprojResolveAssemblyReference.cache

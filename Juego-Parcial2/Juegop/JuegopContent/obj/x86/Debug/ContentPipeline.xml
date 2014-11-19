@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Imagenes\sin.png</Source>
+      <Name>Imagenes\sin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\sin.xnb</Output>
+      <Time>2014-09-25T23:34:42.1294-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\balas.png</Source>
+      <Name>Imagenes\balas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\balas.xnb</Output>
+      <Time>2014-09-26T00:56:45.9334-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\navemala.png</Source>
+      <Name>Imagenes\navemala</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\navemala.xnb</Output>
+      <Time>2014-09-26T23:24:49.8254-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondodeljuego.png</Source>
+      <Name>Imagenes\fondodeljuego</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondodeljuego.xnb</Output>
+      <Time>2014-10-17T16:17:14.7052-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\pwned.png</Source>
+      <Name>Imagenes\pwned</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pwned.xnb</Output>
+      <Time>2014-10-19T22:44:54.1988-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Gano.png</Source>
+      <Name>Imagenes\Gano</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Gano.xnb</Output>
+      <Time>2014-10-27T01:02:04.769-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Perdiste.png</Source>
+      <Name>Imagenes\Perdiste</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Perdiste.xnb</Output>
+      <Time>2014-10-26T22:43:22.0254-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Menu\Fondo.png</Source>
+      <Name>Imagenes\Menu\Fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Menu\Fondo.xnb</Output>
+      <Time>2014-10-26T23:17:38.6754-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Fondo2.png</Source>
+      <Name>Imagenes\Fondo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Fondo2.xnb</Output>
+      <Time>2014-11-13T20:31:01.404-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Estallido.mp3</Source>
+      <Name>Sonidos\Estallido</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Estallido.xnb</Output>
+      <Time>2014-09-27T00:19:13.8104-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\explosion.mp3</Source>
+      <Name>Sonidos\explosion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\explosion.xnb</Output>
+      <Time>2014-09-27T00:46:03.6464-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\movimientoavion.mp3</Source>
+      <Name>Sonidos\movimientoavion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\movimientoavion.xnb</Output>
+      <Time>2014-09-27T00:52:45.2834-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\gun_ricochet.mp3</Source>
+      <Name>Sonidos\gun_ricochet</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\gun_ricochet.xnb</Output>
+      <Time>2014-09-28T13:25:59.1754-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\sports_card.mp3</Source>
+      <Name>Sonidos\sports_card</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.xnb</Output>
+      <Extra>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.wma</Extra>
+      <Time>2014-10-26T22:20:41.272-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Pierde.mp3</Source>
+      <Name>Sonidos\Pierde</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Pierde.xnb</Output>
+      <Time>2014-11-04T23:08:17.3552-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\texto.spritefont</Source>
+      <Name>Fuentes\texto</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\texto.xnb</Output>
+      <Time>2014-10-23T14:40:42.8766-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Nivel_1.spritefont</Source>
+      <Name>Fuentes\Nivel_1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_1.xnb</Output>
+      <Time>2014-10-19T01:21:17.3504-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Nivel_2.spritefont</Source>
+      <Name>Fuentes\Nivel_2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_2.xnb</Output>
+      <Time>2014-10-19T01:20:53.9656-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\PUNTAJE.spritefont</Source>
+      <Name>Fuentes\PUNTAJE</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PUNTAJE.xnb</Output>
+      <Time>2014-10-19T01:21:43.6514-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Felicitacion.spritefont</Source>
+      <Name>Fuentes\Felicitacion</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Felicitacion.xnb</Output>
+      <Time>2014-10-19T01:21:37.0058-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\PWNED.spritefont</Source>
+      <Name>Fuentes\PWNED</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PWNED.xnb</Output>
+      <Time>2014-10-20T14:02:42.3822-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\Vidas.spritefont</Source>
+      <Name>Fuentes\Vidas</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Vidas.xnb</Output>
+      <Time>2014-10-22T23:26:58.7996-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\fuentemenu.spritefont</Source>
+      <Name>Fuentes\fuentemenu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\fuentemenu.xnb</Output>
+      <Time>2014-11-13T20:34:07.297-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fuentes\titulos.spritefont</Source>
+      <Name>Fuentes\titulos</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\titulos.xnb</Output>
+      <Time>2014-11-13T20:34:58.043-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\yes.wav</Source>
+      <Name>Sonidos\yes</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\yes.xnb</Output>
+      <Time>2014-10-26T23:55:16.1039-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Fondo3.png</Source>
+      <Name>Imagenes\Fondo3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Fondo3.xnb</Output>
+      <Time>2014-11-14T16:12:39.4672-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Fondo4.PNG</Source>
+      <Name>Imagenes\Fondo4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Fondo4.xnb</Output>
+      <Time>2014-11-13T20:31:01.414-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\Buu.mp3</Source>
+      <Name>Sonidos\Buu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Buu.xnb</Output>
+      <Time>2014-11-13T21:08:25.8425-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\JuegopContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\JuegopContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-19T21:12:46.5338-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

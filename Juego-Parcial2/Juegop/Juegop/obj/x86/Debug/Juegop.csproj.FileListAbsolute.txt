@@ -1,0 +1,194 @@
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\bin\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\bin\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\obj\x86\Debug\Juegop.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\obj\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\obj\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\bin\x86\Debug\Content\sin.xnb
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\bin\x86\Debug\Content\balas.xnb
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\bin\x86\Debug\Content\pelota.xnb
+C:\Users\Leo\Desktop\LP1\Juegop\Juegop\Juegop\bin\x86\Debug\Content\pupl.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\obj\x86\Debug\Juegop.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\obj\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\obj\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Estallido.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\explosion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\movimientoavion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\sin.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\balas.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pelota.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pupl.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\navemala.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondodeljuego.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\gun_ricochet.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Ganaste.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\sin.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\balas.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pelota.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pupl.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\navemala.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondodeljuego.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Ganaste.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Estallido.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\explosion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\movimientoavion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\gun_ricochet.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\obj\x86\Debug\Juegop.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\obj\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\obj\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\GameOver.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\texto.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\GameOver.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\texto.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\sin.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\balas.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pelota.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\navemala.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondodeljuego.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Estallido.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\explosion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\movimientoavion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\gun_ricochet.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\obj\x86\Debug\Juegop.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\obj\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\obj\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\texto.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_1.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_2.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PUNTAJE.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Felicitacion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\yes.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pwned.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PWNED.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Vidas.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\sin.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\balas.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pelota.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pupl.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\navemala.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondodeljuego.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Ganaste.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\GameOver.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pwned.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Menu\FondoPes.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Estallido.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\explosion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\movimientoavion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\gun_ricochet.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\yes.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\texto.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_1.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_2.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PUNTAJE.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Felicitacion.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PWNED.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Vidas.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\bin\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\obj\x86\Debug\Juegop.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\obj\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos - copia\Juegop\Juegop\obj\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Juegop.exe.manifest
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Juegop.application
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\obj\x86\Debug\Juegop.exe.manifest
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\obj\x86\Debug\Juegop.application
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\fuentemenu.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.wma
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Gano.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Perdiste.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Menu\Fondo.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Fondo2.xnb
+C:\Users\Leo\Desktop\LP1\Juegop - con dos fondos\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\titulos.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\sin.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\balas.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pelota.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\navemala.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondodeljuego.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pwned.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Gano.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Perdiste.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Menu\Fondo.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Fondo2.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Estallido.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\explosion.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\movimientoavion.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\gun_ricochet.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\texto.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_1.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_2.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PUNTAJE.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Felicitacion.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PWNED.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Vidas.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\fuentemenu.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\titulos.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\yes.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.wma
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Juegop.exe.manifest
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Juegop.application
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\obj\x86\Debug\Juegop.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\obj\x86\Debug\Juegop.exe.manifest
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\obj\x86\Debug\Juegop.application
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\obj\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\obj\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\sin.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\balas.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\navemala.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondodeljuego.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\pwned.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Gano.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Perdiste.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Menu\Fondo.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Fondo2.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Estallido.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\explosion.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\movimientoavion.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\gun_ricochet.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\texto.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_1.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Nivel_2.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PUNTAJE.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Felicitacion.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\PWNED.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\Vidas.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\fuentemenu.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Fuentes\titulos.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\yes.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\sports_card.wma
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Juegop.exe.manifest
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Juegop.application
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\obj\x86\Debug\Juegop.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\obj\x86\Debug\Juegop.exe.manifest
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\obj\x86\Debug\Juegop.application
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\obj\x86\Debug\Juegop.exe
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\obj\x86\Debug\Juegop.pdb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Pierde.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\Hit.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Pierde.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondo3.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondo4.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondo3.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Imagenes\fondo4.xnb
+C:\Users\Leo\Desktop\LP1\Juego-Parcial2 - copia\Juegop\Juegop\bin\x86\Debug\Content\Sonidos\Buu.xnb
